@@ -8,7 +8,7 @@ on:
         required: true
         default: 'alkautsardika'
       agent_description:
-        description: 'Haruka'
+        description: 'alkautsardika'
         required: true
         default: 'alkautsardika AI Agent'
 
